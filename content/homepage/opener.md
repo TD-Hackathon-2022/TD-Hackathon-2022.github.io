@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
+title: "RFCs"
 weight: 1
 ---
 
-This is test content for welcome page
+{{< rfcs >}}
