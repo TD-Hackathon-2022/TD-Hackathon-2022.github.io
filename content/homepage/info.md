@@ -1,6 +1,6 @@
 ---
 title: "Timeline & FAQ"
-weight: 2
+weight: 1
 ---
 
 赛程：

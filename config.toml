@@ -17,7 +17,7 @@ title = "TD Hackathon 2022"
     copyright = "telecom digital - thoughtworks"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Coding the World"
+    description = "TD Hackathon 2022"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -35,7 +35,7 @@ title = "TD Hackathon 2022"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    # hidedesignbyline = true
+    hidedesignbyline = true
 
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
