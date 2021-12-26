@@ -1,6 +1,7 @@
 ---
 title: "Wanna say something?"
-weight: 4
+weight: 5
+header_menu: true
 ---
 
 {{< comments >}}

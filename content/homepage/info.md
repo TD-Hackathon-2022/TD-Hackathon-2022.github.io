@@ -1,10 +1,6 @@
 ---
-title: "Timeline & FAQ"
+title: "Timeline"
 weight: 1
 ---
 
-赛程：
-xxxxx
-
-FAQs:
-xxxxxx
+![Timeline](images/timeline.svg)
